@@ -12,7 +12,7 @@
     ],
     "runenv": [
         "LANG=en_US.UTF-8",
-        "PATH=/bin:/sbin:/usr/games:/usr/bin:/usr/sbin:/usr/X11R6/bin:/usr/local/bin:/usr/local/sbin",
+        "PATH=/bin:/sbin:/usr/games:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin",
         "TERM=vt100",
         "MAIL=/var/mail/root",
         "LOGNAME=root",
