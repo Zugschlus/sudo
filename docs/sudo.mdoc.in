@@ -207,7 +207,7 @@ used.
 For example:
 .Bd -literal -offset 4n
 # Path to askpass helper program
-Path askpass /usr/X11R6/bin/ssh-askpass
+Path askpass /usr/bin/ssh-askpass
 .Ed
 .Pp
 If no askpass program is available,

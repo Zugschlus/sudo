@@ -205,7 +205,7 @@ For example:
 .sp
 .RS 12n
 # Path to askpass helper program
-Path askpass /usr/X11R6/bin/ssh-askpass
+Path askpass /usr/bin/ssh-askpass
 .RE
 .fi
 .RS 8n

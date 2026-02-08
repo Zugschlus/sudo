@@ -218,7 +218,7 @@ For example:
 .Bd -literal -offset 4n
 Path intercept @intercept_file@
 Path noexec @noexec_file@
-Path askpass /usr/X11R6/bin/ssh-askpass
+Path askpass /usr/bin/ssh-askpass
 .Ed
 .Pp
 If no path name is specified, features relying on the specified
@@ -716,7 +716,7 @@ front-end configuration
 # own askpass program but can use the OpenSSH askpass.
 #
 # Use the OpenSSH askpass
-#Path askpass /usr/X11R6/bin/ssh-askpass
+#Path askpass /usr/bin/ssh-askpass
 #
 # Use the Gnome OpenSSH askpass
 #Path askpass /usr/libexec/openssh/gnome-ssh-askpass
